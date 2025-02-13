@@ -109,7 +109,7 @@
     "COLOR": "Gray",
     "MRP": 6295,
     "id": 31447100,
-    "rackSpace": "Rack Top"
+    "rackSpace": "DEFAULT"
   },
   {
     "style": 19058,
@@ -1341,7 +1341,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 7678119,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 11014,
@@ -1789,7 +1789,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 20685962,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 13027,
@@ -2733,7 +2733,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 24940992,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 10824,
@@ -3277,7 +3277,7 @@
     "COLOR": "Black",
     "MRP": 2395,
     "id": 31257619,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 19099,
@@ -4269,7 +4269,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 13717970,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 12033,
@@ -4277,7 +4277,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 27816616,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 17003,
@@ -4917,7 +4917,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 26092712,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 14090,
@@ -5141,7 +5141,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 13717970,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 16013,
@@ -5413,7 +5413,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 13717970,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 19138,
@@ -6709,7 +6709,7 @@
     "COLOR": "Pink",
     "MRP": 3695,
     "id": 21852168,
-    "rackSpace": "C4,C5"
+    "rackSpace": "C4-C5"
   },
   {
     "style": 50028,
@@ -7157,7 +7157,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 13717970,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 19072,
@@ -7437,7 +7437,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 27816654,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 12057,
@@ -7645,7 +7645,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 20685952,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 16066,
@@ -7845,7 +7845,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 7678119,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 19150,
@@ -8053,7 +8053,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 26092762,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 14028,
@@ -8253,7 +8253,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30493678,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 10949,
@@ -9085,7 +9085,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 24940992,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 10933,
@@ -9885,7 +9885,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 20685962,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 18081,
@@ -11101,7 +11101,7 @@
     "COLOR": "Wine",
     "MRP": 2595,
     "id": 25642112,
-    "rackSpace": "G13,N5"
+    "rackSpace": "G13-N5"
   },
   {
     "style": 18080,
@@ -11461,7 +11461,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 27816654,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 15031,
@@ -12149,7 +12149,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 13717966,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 24020,
@@ -12933,7 +12933,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 20685962,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 17045,
@@ -14677,7 +14677,7 @@
     "COLOR": "Pink",
     "MRP": 3695,
     "id": 21852168,
-    "rackSpace": "C4,C5"
+    "rackSpace": "C4-C5"
   },
   {
     "style": 15083,
@@ -15317,7 +15317,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 26092772,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 16073,
@@ -15437,7 +15437,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 7678119,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 15096,
@@ -15541,7 +15541,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 13717966,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 16017,
@@ -16285,7 +16285,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 24940992,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 18091,
@@ -16365,7 +16365,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 20685952,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 30020,
@@ -16453,7 +16453,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 29601856,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 30019,
@@ -16605,7 +16605,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 26092762,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 13067,
@@ -17565,7 +17565,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 26092762,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 10840,
@@ -19885,7 +19885,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30493678,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 11191,
@@ -20141,7 +20141,7 @@
     "COLOR": "Wine",
     "MRP": 2595,
     "id": 25642112,
-    "rackSpace": "G13,N5"
+    "rackSpace": "G13-N5"
   },
   {
     "style": 19122,
@@ -20845,7 +20845,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 13717966,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 12030,
@@ -21405,7 +21405,7 @@
     "COLOR": "Yellow",
     "MRP": 11095,
     "id": 26092776,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 11142,
@@ -21621,7 +21621,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 7678119,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 16074,
@@ -22021,7 +22021,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 26092660,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 19071,
@@ -25365,7 +25365,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30493678,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 19050,
@@ -25373,7 +25373,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30418440,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 19039,
@@ -25797,7 +25797,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30418440,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 12057,
@@ -25845,7 +25845,7 @@
     "COLOR": "Yellow",
     "MRP": 5795,
     "id": 25043682,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 17053,
@@ -25869,7 +25869,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 20685962,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 30023,
@@ -28573,7 +28573,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 7678119,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 13092,
@@ -29085,7 +29085,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 26092660,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 11197,
@@ -29125,7 +29125,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 21852176,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 19204,
@@ -29149,7 +29149,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 24940992,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 10992,
@@ -29389,7 +29389,7 @@
     "COLOR": "Pink",
     "MRP": 3695,
     "id": 21852168,
-    "rackSpace": "C4,C5"
+    "rackSpace": "C4-C5"
   },
   {
     "style": 19146,
@@ -30045,7 +30045,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 29601856,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 19233,
@@ -30197,7 +30197,7 @@
     "COLOR": "Pink",
     "MRP": 3695,
     "id": 21852168,
-    "rackSpace": "C4,C5"
+    "rackSpace": "C4-C5"
   },
   {
     "style": 19065,
@@ -30981,7 +30981,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 26092712,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 11190,
@@ -33005,7 +33005,7 @@
     "COLOR": "Pink",
     "MRP": 3695,
     "id": 21852168,
-    "rackSpace": "C4,C5"
+    "rackSpace": "C4-C5"
   },
   {
     "style": 14082,
@@ -33325,7 +33325,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30418440,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 16001,
@@ -33421,7 +33421,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 21852176,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 11194,
@@ -33701,7 +33701,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 20685952,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 19144,
@@ -33997,7 +33997,7 @@
     "COLOR": "Wine",
     "MRP": 2595,
     "id": 25642112,
-    "rackSpace": "G13,N5"
+    "rackSpace": "G13-N5"
   },
   {
     "style": 16007,
@@ -34157,7 +34157,7 @@
     "COLOR": "Yellow",
     "MRP": 5795,
     "id": 25043682,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 15058,
@@ -35525,7 +35525,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 29601856,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 18035,
@@ -35541,7 +35541,7 @@
     "COLOR": "Black",
     "MRP": 2395,
     "id": 31257619,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 16072,
@@ -35893,7 +35893,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 27816654,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 14099,
@@ -36341,7 +36341,7 @@
     "COLOR": "Yellow",
     "MRP": 11095,
     "id": 26092776,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 19082,
@@ -36533,7 +36533,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 20685952,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 19159,
@@ -36733,7 +36733,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 26092712,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 11178,
@@ -37637,7 +37637,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 26092660,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 13090,
@@ -38309,7 +38309,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 20685952,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 11188,
@@ -38357,7 +38357,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 29601856,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 19095,
@@ -39645,7 +39645,7 @@
     "COLOR": "Pink",
     "MRP": 3695,
     "id": 21852168,
-    "rackSpace": "C4,C5"
+    "rackSpace": "C4-C5"
   },
   {
     "style": 16072,
@@ -39709,7 +39709,7 @@
     "COLOR": "Yellow",
     "MRP": 11095,
     "id": 26092776,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 15043,
@@ -40429,7 +40429,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30418440,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 19249,
@@ -40741,7 +40741,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30418440,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 11068,
@@ -41253,7 +41253,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 13717966,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 19063,
@@ -42525,7 +42525,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 26092660,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 16094,
@@ -43125,7 +43125,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 20685962,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 18037,
@@ -44253,7 +44253,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 26092762,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 19142,
@@ -45365,7 +45365,7 @@
     "COLOR": "Yellow",
     "MRP": 5795,
     "id": 25043682,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 17066,
@@ -45909,7 +45909,7 @@
     "COLOR": "Black",
     "MRP": 2395,
     "id": 31257619,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 11191,
@@ -46277,7 +46277,7 @@
     "COLOR": "Wine",
     "MRP": 2595,
     "id": 25642112,
-    "rackSpace": "G13,N5"
+    "rackSpace": "G13-N5"
   },
   {
     "style": 17074,
@@ -47349,7 +47349,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 26092772,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 12006,
@@ -48125,7 +48125,7 @@
     "COLOR": "Yellow",
     "MRP": 5795,
     "id": 25043682,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 16083,
@@ -48773,7 +48773,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 13717966,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 19167,
@@ -49109,7 +49109,7 @@
     "COLOR": "Black",
     "MRP": 2395,
     "id": 31257619,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 18060,
@@ -49237,7 +49237,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 13717970,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 13018,
@@ -49757,7 +49757,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 26092660,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 12040,
@@ -50621,7 +50621,7 @@
     "COLOR": "Yellow",
     "MRP": 5795,
     "id": 25043682,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 19035,
@@ -50661,7 +50661,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 24940992,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 19205,
@@ -51285,7 +51285,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30418440,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 14003,
@@ -52141,7 +52141,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 26092712,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 15066,
@@ -52501,7 +52501,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30493678,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 19240,
@@ -52725,7 +52725,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 20685952,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 19248,
@@ -52805,7 +52805,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 13717966,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 17028,
@@ -53325,7 +53325,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 26092762,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 19026,
@@ -53709,7 +53709,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 13717970,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 19049,
@@ -53805,7 +53805,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 26092772,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 16084,
@@ -54429,7 +54429,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 26092712,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 30033,
@@ -55941,7 +55941,7 @@
     "COLOR": "Black",
     "MRP": 2395,
     "id": 31257619,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 11163,
@@ -57117,7 +57117,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 21852176,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 19204,
@@ -57301,7 +57301,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 29601856,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 14034,
@@ -58077,7 +58077,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 7678119,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 12085,
@@ -58165,7 +58165,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30418440,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 19098,
@@ -58221,7 +58221,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 21852176,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 18059,
@@ -59013,7 +59013,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 26092762,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 19115,
@@ -62573,7 +62573,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 21852176,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 18022,
@@ -64141,7 +64141,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 13717970,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 19047,
@@ -64845,7 +64845,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 21852176,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 13016,
@@ -65117,7 +65117,7 @@
     "COLOR": "Pink",
     "MRP": 3695,
     "id": 21852168,
-    "rackSpace": "C4,C5"
+    "rackSpace": "C4-C5"
   },
   {
     "style": 13049,
@@ -65197,7 +65197,7 @@
     "COLOR": "Black",
     "MRP": 2395,
     "id": 31257619,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 17073,
@@ -65461,7 +65461,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30493678,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 19244,
@@ -66629,7 +66629,7 @@
     "COLOR": "Yellow",
     "MRP": 11095,
     "id": 26092776,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 13088,
@@ -67213,7 +67213,7 @@
     "COLOR": "Yellow",
     "MRP": 5795,
     "id": 25043682,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 14086,
@@ -67365,7 +67365,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 27816616,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 14078,
@@ -67621,7 +67621,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30418440,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 11065,
@@ -68197,7 +68197,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 27816616,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 19143,
@@ -68213,7 +68213,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 26092772,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 19148,
@@ -69493,7 +69493,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 13717966,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 19121,
@@ -70309,7 +70309,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 7678119,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 18089,
@@ -71573,7 +71573,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 24940992,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 24002,
@@ -72285,7 +72285,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 21852176,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 12092,
@@ -72605,7 +72605,7 @@
     "COLOR": "Pink",
     "MRP": 3695,
     "id": 21852168,
-    "rackSpace": "C4,C5"
+    "rackSpace": "C4-C5"
   },
   {
     "style": 15086,
@@ -72949,7 +72949,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 13717966,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 12030,
@@ -74117,7 +74117,7 @@
     "COLOR": "Black",
     "MRP": 3195,
     "id": 29601856,
-    "rackSpace": "I10,I11"
+    "rackSpace": "I10-I11"
   },
   {
     "style": 14052,
@@ -74381,7 +74381,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 26092772,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 14003,
@@ -74685,7 +74685,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 20685962,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 17006,
@@ -74821,7 +74821,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 20685952,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 19253,
@@ -75485,7 +75485,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 24940992,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 12046,
@@ -75605,7 +75605,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 27816654,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 16085,
@@ -76133,7 +76133,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 27816616,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 16030,
@@ -76381,7 +76381,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 13717970,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 18064,
@@ -76597,7 +76597,7 @@
     "COLOR": "Wine",
     "MRP": 2595,
     "id": 25642112,
-    "rackSpace": "G13,N5"
+    "rackSpace": "G13-N5"
   },
   {
     "style": 11104,
@@ -77293,7 +77293,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 26092772,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 19244,
@@ -77549,7 +77549,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 27816654,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 17002,
@@ -77845,7 +77845,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 27816654,
-    "rackSpace": "F4,F5"
+    "rackSpace": "F4-F5"
   },
   {
     "style": 10167,
@@ -78797,7 +78797,7 @@
     "COLOR": "Yellow",
     "MRP": 5795,
     "id": 25043682,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 15044,
@@ -79365,7 +79365,7 @@
     "COLOR": "Magenta",
     "MRP": 4295,
     "id": 24940992,
-    "rackSpace": "L5,L6"
+    "rackSpace": "L5-L6"
   },
   {
     "style": 12075,
@@ -80693,7 +80693,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 26092712,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 18048,
@@ -80733,7 +80733,7 @@
     "COLOR": "Purple",
     "MRP": 2495,
     "id": 20685952,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 15016,
@@ -81013,7 +81013,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 26092660,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 11097,
@@ -81653,7 +81653,7 @@
     "COLOR": "Black",
     "MRP": 2395,
     "id": 31257619,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 18035,
@@ -81717,7 +81717,7 @@
     "COLOR": "Wine",
     "MRP": 2595,
     "id": 25642112,
-    "rackSpace": "G13,N5"
+    "rackSpace": "G13-N5"
   },
   {
     "style": 16055,
@@ -82133,7 +82133,7 @@
     "COLOR": "Yellow",
     "MRP": 11095,
     "id": 26092776,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 14060,
@@ -82949,7 +82949,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30493678,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 14085,
@@ -83677,7 +83677,7 @@
     "COLOR": "Black",
     "MRP": 2395,
     "id": 31257619,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 16092,
@@ -83837,7 +83837,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 27816616,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 19058,
@@ -83981,7 +83981,7 @@
     "COLOR": "Wine",
     "MRP": 2595,
     "id": 25642112,
-    "rackSpace": "G13,N5"
+    "rackSpace": "G13-N5"
   },
   {
     "style": 16022,
@@ -84229,7 +84229,7 @@
     "COLOR": "Black",
     "MRP": 2395,
     "id": 31257619,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 19116,
@@ -84573,7 +84573,7 @@
     "COLOR": "Pink",
     "MRP": 3295,
     "id": 21852176,
-    "rackSpace": "A4,A5,A6"
+    "rackSpace": "A4-A5-A6"
   },
   {
     "style": 13099,
@@ -85325,7 +85325,7 @@
     "COLOR": "Yellow",
     "MRP": 11095,
     "id": 26092776,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 19127,
@@ -85453,7 +85453,7 @@
     "COLOR": "Yellow",
     "MRP": 5795,
     "id": 25043682,
-    "rackSpace": "Q7,P11"
+    "rackSpace": "Q7-P11"
   },
   {
     "style": 19211,
@@ -85685,7 +85685,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 20685962,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 19190,
@@ -86605,7 +86605,7 @@
     "COLOR": "Black",
     "MRP": 3495,
     "id": 27816616,
-    "rackSpace": "J1,J2"
+    "rackSpace": "J1-J2"
   },
   {
     "style": 11112,
@@ -87373,7 +87373,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30418440,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 18065,
@@ -87813,7 +87813,7 @@
     "COLOR": "Black",
     "MRP": 2195,
     "id": 30418440,
-    "rackSpace": "S6,S7"
+    "rackSpace": "S6-S7"
   },
   {
     "style": 30004,
@@ -88005,7 +88005,7 @@
     "COLOR": "Black",
     "MRP": 2395,
     "id": 31257619,
-    "rackSpace": "A13,A14"
+    "rackSpace": "A13-A14"
   },
   {
     "style": 10793,
@@ -88741,7 +88741,7 @@
     "COLOR": "Wine",
     "MRP": 2595,
     "id": 25642112,
-    "rackSpace": "G13,N5"
+    "rackSpace": "G13-N5"
   },
   {
     "style": 16055,
@@ -89357,7 +89357,7 @@
     "COLOR": "Red",
     "MRP": 3395,
     "id": 20685962,
-    "rackSpace": "A2,A3"
+    "rackSpace": "A2-A3"
   },
   {
     "style": 18077,
