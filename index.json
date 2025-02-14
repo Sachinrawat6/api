@@ -90446,5 +90446,620 @@
     "MRP": 3295,
     "id": 11401272,
     "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 19061,
+    "name": "Turquoise blue floral print shrug",
+    "COLOR": "Turquoise",
+    "MRP": 2495,
+    "id": 30464818,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 19032,
+    "name": "Tropical print shrug",
+    "COLOR": "Multi",
+    "MRP": 2495,
+    "id": 30464790,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 19011,
+    "name": "Solid Cotton Slub V-neck top with regular sleeves.",
+    "COLOR": "Black",
+    "MRP": 3095,
+    "id": 29579710,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 19009,
+    "name": "Solid Cotton Slub V-neck top with regular sleeves.",
+    "COLOR": "Ivory",
+    "MRP": 2695,
+    "id": 29579716,
+    "rackSpace": "N2"
+  },
+  {
+    "style": 19007,
+    "name": "Solid Cotton Slub V-neck top with regular sleeves.",
+    "COLOR": "Turquoise",
+    "MRP": 2695,
+    "id": 29579712,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 19000,
+    "name": "Gray Cotton Slub shirt with asequins half placket mandarin collar",
+    "COLOR": "Gray",
+    "MRP": 3095,
+    "id": 29579686,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18097,
+    "name": "Beige floral print satin half placket top",
+    "COLOR": "Beige",
+    "MRP": 3095,
+    "id": 29579682,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18078,
+    "name": "Black and brown abstract print v-neck top",
+    "COLOR": "Black",
+    "MRP": 2595,
+    "id": 29579692,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18070,
+    "name": "Black and red polka dots Crop Top",
+    "COLOR": "Black",
+    "MRP": 2595,
+    "id": 29579684,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18087,
+    "name": "Tropical print Oversized shirt",
+    "COLOR": "Green",
+    "MRP": 2695,
+    "id": 29579680,
+    "rackSpace": "O12"
+  },
+  {
+    "style": 18033,
+    "name": "Solid cotton V-neck top with regular sleeves.",
+    "COLOR": "Orange",
+    "MRP": 2595,
+    "id": 27644454,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18031,
+    "name": "Solid cotton V-neck top with regular sleeves.",
+    "COLOR": "Fucia",
+    "MRP": 2595,
+    "id": 27644460,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18029,
+    "name": "Solid cotton slub V-neck top with regular sleeves.",
+    "COLOR": "Magenta",
+    "MRP": 2595,
+    "id": 27644378,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18013,
+    "name": "purple lycra shrug.",
+    "COLOR": "Purple",
+    "MRP": 4395,
+    "id": 26214020,
+    "rackSpace": "W13"
+  },
+  {
+    "style": 18011,
+    "name": "Peach floral half placket shirt",
+    "COLOR": "Peach",
+    "MRP": 3095,
+    "id": 26214032,
+    "rackSpace": "H16"
+  },
+  {
+    "style": 18009,
+    "name": "Red solid rib v-neck top",
+    "COLOR": "Red",
+    "MRP": 4795,
+    "id": 26214036,
+    "rackSpace": "Store Window"
+  },
+  {
+    "style": 18007,
+    "name": "Beige solid rib v-neck top",
+    "COLOR": "Beige",
+    "MRP": 4795,
+    "id": 26214014,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18004,
+    "name": "Neon yellow V-Neck short kaftan",
+    "COLOR": "Neon Yellow",
+    "MRP": 2395,
+    "id": 26214018,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18002,
+    "name": "Black and white stripe crepe half placket shirt",
+    "COLOR": "Black",
+    "MRP": 3095,
+    "id": 26214022,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18000,
+    "name": "Magenta and white stripe shirt",
+    "COLOR": "Magenta",
+    "MRP": 3095,
+    "id": 26214026,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17098,
+    "name": "Wine and white stripe crepe shirt",
+    "COLOR": "Wine",
+    "MRP": 3095,
+    "id": 26214030,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17096,
+    "name": "Maroon and white stripe shirt",
+    "COLOR": "Maroon",
+    "MRP": 3095,
+    "id": 26214024,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17094,
+    "name": "Teal solid velvet fabric hoodie",
+    "COLOR": "Teal",
+    "MRP": 5295,
+    "id": 26214012,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17092,
+    "name": "Navy solid velvet fabric hoodie",
+    "COLOR": "Navy",
+    "MRP": 5295,
+    "id": 26214010,
+    "rackSpace": "Store Window"
+  },
+  {
+    "style": 17090,
+    "name": "Navy and white stripe shirt",
+    "COLOR": "Navy",
+    "MRP": 3095,
+    "id": 26214038,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17088,
+    "name": "Maroon solid velvet fabric hoodie",
+    "COLOR": "Maroon",
+    "MRP": 3695,
+    "id": 26214016,
+    "rackSpace": "Store Window"
+  },
+  {
+    "style": 16063,
+    "name": "Black lycra strechable high waist elasticated palazzo",
+    "COLOR": "Black",
+    "MRP": 3995,
+    "id": 25642110,
+    "rackSpace": "Store Window"
+  },
+  {
+    "style": 16050,
+    "name": "Stylish front-open hoodie with Zipper",
+    "COLOR": "Sea Green",
+    "MRP": 4495,
+    "id": 25642096,
+    "rackSpace": "X5"
+  },
+  {
+    "style": 16081,
+    "name": "Pink and White plaid half placket shirt with full cuff sleeves.",
+    "COLOR": "Pink",
+    "MRP": 2895,
+    "id": 25642104,
+    "rackSpace": "H6"
+  },
+  {
+    "style": 16074,
+    "name": "Teal and White plaid half placket shirt with full cuff sleeves.",
+    "COLOR": "Teal",
+    "MRP": 2895,
+    "id": 25642090,
+    "rackSpace": "AA13"
+  },
+  {
+    "style": 17008,
+    "name": "Greenand White Stripe half placket shirt.",
+    "COLOR": "White",
+    "MRP": 2795,
+    "id": 25642100,
+    "rackSpace": "B9"
+  },
+  {
+    "style": 24009,
+    "name": "Green crepe silk embelished festive shirt",
+    "COLOR": "Green",
+    "MRP": 4295,
+    "id": 25642056,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 24007,
+    "name": "Red crepe silk embelished festive shirt",
+    "COLOR": "Red",
+    "MRP": 4295,
+    "id": 25642072,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17067,
+    "name": "Rust and white polka dot half placket shirt",
+    "COLOR": "Rust",
+    "MRP": 2895,
+    "id": 25642074,
+    "rackSpace": "N12"
+  },
+  {
+    "style": 17063,
+    "name": "Blue Japnese floral print half placket shirt",
+    "COLOR": "Blue",
+    "MRP": 2795,
+    "id": 25642078,
+    "rackSpace": "H17"
+  },
+  {
+    "style": 17061,
+    "name": "Wine and black leopard print half placket shirt",
+    "COLOR": "Wine",
+    "MRP": 2895,
+    "id": 25642134,
+    "rackSpace": "N5"
+  },
+  {
+    "style": 17057,
+    "name": "Hot pink and white polka dot shirt",
+    "COLOR": "Pink",
+    "MRP": 2795,
+    "id": 25642124,
+    "rackSpace": "AA1"
+  },
+  {
+    "style": 17055,
+    "name": "Navy and pink polka dot shirt",
+    "COLOR": "Navy",
+    "MRP": 2795,
+    "id": 25642142,
+    "rackSpace": "O6"
+  },
+  {
+    "style": 19062,
+    "name": "Turquoise blue floral print elastic waist pants",
+    "COLOR": "Turquoise",
+    "MRP": 2495,
+    "id": 30464818,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 19033,
+    "name": "Tropical print elastic waist comfortable pants",
+    "COLOR": "Multi",
+    "MRP": 2495,
+    "id": 30464790,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 19012,
+    "name": "Solid Cotton Slub trousers with a full elastic waistband",
+    "COLOR": "Black",
+    "MRP": 2495,
+    "id": 29579710,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 19010,
+    "name": "Solid Cotton Slub trousers with a full elastic waistband",
+    "COLOR": "Ivory",
+    "MRP": 2495,
+    "id": 29579716,
+    "rackSpace": "AA2"
+  },
+  {
+    "style": 19008,
+    "name": "Solid Cotton Slub trousers with a full elastic waistband",
+    "COLOR": "Turquoise",
+    "MRP": 2495,
+    "id": 29579712,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 19001,
+    "name": "Gray Cotton Slub pant.",
+    "COLOR": "Gray",
+    "MRP": 2495,
+    "id": 29579686,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18098,
+    "name": "Beige floral print satin straight pant",
+    "COLOR": "Beige",
+    "MRP": 2895,
+    "id": 29579682,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18079,
+    "name": "Black and brown abstract print full elasticated pants",
+    "COLOR": "Black",
+    "MRP": 2895,
+    "id": 29579692,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18071,
+    "name": "Black & Red A-Line polka skirt",
+    "COLOR": "Black",
+    "MRP": 2395,
+    "id": 29579684,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18088,
+    "name": "Tropical print shorts",
+    "COLOR": "Green",
+    "MRP": 2095,
+    "id": 29579680,
+    "rackSpace": "O12"
+  },
+  {
+    "style": 18034,
+    "name": "Solid cotton trousers with a full elastic waistband.",
+    "COLOR": "Orange",
+    "MRP": 2595,
+    "id": 27644454,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18032,
+    "name": "Solid cotton trousers with a full elastic waistband.",
+    "COLOR": "Fucia",
+    "MRP": 2595,
+    "id": 27644460,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18030,
+    "name": "Solid cotton trousers with a full elastic waistband.",
+    "COLOR": "Magenta",
+    "MRP": 2595,
+    "id": 27644378,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18014,
+    "name": "Purple lycra full waist band",
+    "COLOR": "Purple",
+    "MRP": 3995,
+    "id": 26214020,
+    "rackSpace": "W12"
+  },
+  {
+    "style": 18012,
+    "name": "Peach floral trouser",
+    "COLOR": "Peach",
+    "MRP": 2795,
+    "id": 26214032,
+    "rackSpace": "H16"
+  },
+  {
+    "style": 18010,
+    "name": "Red solid rib trouser.",
+    "COLOR": "Red",
+    "MRP": 3995,
+    "id": 26214036,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18008,
+    "name": "Beige solid rib trouser.",
+    "COLOR": "Beige",
+    "MRP": 3995,
+    "id": 26214014,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18005,
+    "name": "Neon yellow solid crepe trouser.",
+    "COLOR": "Neon Yellow",
+    "MRP": 2795,
+    "id": 26214018,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18003,
+    "name": "Black and white stripe crepe trouser",
+    "COLOR": "Black",
+    "MRP": 2795,
+    "id": 26214022,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 18001,
+    "name": "Magenta and white stripe trouser",
+    "COLOR": "Magenta",
+    "MRP": 2795,
+    "id": 26214026,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17099,
+    "name": "Wine and white stripe crepe trouser",
+    "COLOR": "Wine",
+    "MRP": 2795,
+    "id": 26214030,
+    "rackSpace": "AA11"
+  },
+  {
+    "style": 17097,
+    "name": "Maroon and white stripe trouser",
+    "COLOR": "Maroon",
+    "MRP": 2795,
+    "id": 26214024,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17095,
+    "name": "Teal solid velvet waistband trouser",
+    "COLOR": "Teal",
+    "MRP": 4195,
+    "id": 26214012,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17093,
+    "name": "Navy velvet trouser",
+    "COLOR": "Navy",
+    "MRP": 4195,
+    "id": 26214010,
+    "rackSpace": "Store Window"
+  },
+  {
+    "style": 17091,
+    "name": "Navy and white stripe pants",
+    "COLOR": "Navy",
+    "MRP": 2895,
+    "id": 26214038,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17089,
+    "name": "Maroon Velvet pants",
+    "COLOR": "Maroon",
+    "MRP": 3095,
+    "id": 26214016,
+    "rackSpace": "Store Window"
+  },
+  {
+    "style": 16064,
+    "name": "Black full slevees hoodie with a gold zipper",
+    "COLOR": "Black",
+    "MRP": 4495,
+    "id": 25642110,
+    "rackSpace": "Store Window"
+  },
+  {
+    "style": 16051,
+    "name": "Sea Green strechable palazzo pant",
+    "COLOR": "Sea Green",
+    "MRP": 3995,
+    "id": 25642096,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 17083,
+    "name": "Pink & White check pants",
+    "COLOR": "Pink",
+    "MRP": 2395,
+    "id": 25642104,
+    "rackSpace": "H6"
+  },
+  {
+    "style": 17082,
+    "name": "Green & White check pants",
+    "COLOR": "Green",
+    "MRP": 2395,
+    "id": 25642090,
+    "rackSpace": "N5"
+  },
+  {
+    "style": 17081,
+    "name": "Green & white stripe crepe pants.",
+    "COLOR": "Green",
+    "MRP": 2395,
+    "id": 25642100,
+    "rackSpace": "M8"
+  },
+  {
+    "style": 24010,
+    "name": "Green Silk Trousers with Elastic waistband",
+    "COLOR": "Green",
+    "MRP": 4095,
+    "id": 25642056,
+    "rackSpace": "DEFAULT"
+  },
+  {
+    "style": 24008,
+    "name": "Red Silk Trousers with Elastic waistband",
+    "COLOR": "Red",
+    "MRP": 4095,
+    "id": 25642072,
+    "rackSpace": "AA1"
+  },
+  {
+    "style": 17068,
+    "name": "Rust and white polka dot Trousers",
+    "COLOR": "Rust",
+    "MRP": 2395,
+    "id": 25642074,
+    "rackSpace": "M5"
+  },
+  {
+    "style": 17064,
+    "name": "Blue Japnese floral print Trousers",
+    "COLOR": "Blue",
+    "MRP": 2595,
+    "id": 25642078,
+    "rackSpace": "H17"
+  },
+  {
+    "style": 17062,
+    "name": "Wine and black leopard print trousers",
+    "COLOR": "Wine",
+    "MRP": 2595,
+    "id": 25642134,
+    "rackSpace": "G13,N5"
+  },
+  {
+    "style": 17058,
+    "name": "Hot pink and white polka dot trousers",
+    "COLOR": "Pink",
+    "MRP": 2595,
+    "id": 25642124,
+    "rackSpace": "O6"
+  },
+  {
+    "style": 17056,
+    "name": "Navy and pink polka dot trousers",
+    "COLOR": "Navy",
+    "MRP": 2595,
+    "id": 25642142,
+    "rackSpace": "M7"
   }
+
+
+
 ]
+
+
+  
+
