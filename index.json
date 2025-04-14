@@ -91550,5 +91550,31 @@
     "MRP": 2895,
     "id": 32713128,
     "rackSpace": "DEFAULT"
+  },
+
+
+   {
+    "style": 19351,
+    "name": "Qurvii Colourblocked Kimono Sleeve Crepe Kaftan Top",
+    "COLOR": "Red",
+    "MRP": 2295,
+    "id": 33276159,
+    "rackSpace": "default"
+  },
+  {
+    "style": 19317,
+    "name": "Polka Dot Striped Batwing Sleeve Crepe Shirt Midi Dress",
+    "COLOR": "Black",
+    "MRP": 3195,
+    "id": 33488559,
+    "rackSpace": "default"
+  },
+  {
+    "style": 19342,
+    "name": "Qurvii Women Floral Printed Puff Sleeve Empire Dress",
+    "COLOR": "Peach",
+    "MRP": 2895,
+    "id": 33276160,
+    "rackSpace": "default"
   }
 ]
